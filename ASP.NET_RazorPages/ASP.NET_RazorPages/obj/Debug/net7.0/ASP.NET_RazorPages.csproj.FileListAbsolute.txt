@@ -24,3 +24,6 @@ C:\Users\user\Desktop\Guaranteed(CodeA)\Back-End\(2) 23.11.2023\ASP.NET_RazorPag
 C:\Users\user\Desktop\Guaranteed(CodeA)\Back-End\(2) 23.11.2023\ASP.NET_RazorPages\ASP.NET_RazorPages\obj\Debug\net7.0\ASP.NET_RazorPages.pdb
 C:\Users\user\Desktop\Guaranteed(CodeA)\Back-End\(2) 23.11.2023\ASP.NET_RazorPages\ASP.NET_RazorPages\obj\Debug\net7.0\ASP.NET_RazorPages.genruntimeconfig.cache
 C:\Users\user\Desktop\Guaranteed(CodeA)\Back-End\(2) 23.11.2023\ASP.NET_RazorPages\ASP.NET_RazorPages\obj\Debug\net7.0\ref\ASP.NET_RazorPages.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Back-End\(2) 23.11.2023\ASP.NET_RazorPages\ASP.NET_RazorPages\bin\Debug\net7.0\ASP.NET_RazorPages.staticwebassets.runtime.json
+C:\Users\user\Desktop\Guaranteed(CodeA)\Back-End\(2) 23.11.2023\ASP.NET_RazorPages\ASP.NET_RazorPages\obj\Debug\net7.0\ASP.NET_RazorPages.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Back-End\(2) 23.11.2023\ASP.NET_RazorPages\ASP.NET_RazorPages\obj\Debug\net7.0\ASP.NET_RazorPages.RazorAssemblyInfo.cs

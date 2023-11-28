@@ -8,6 +8,7 @@ namespace ASP.NET_RazorPages
             builder.Services.AddRazorPages();
             var app = builder.Build();
 
+            app.UseRouting();
             app.UseDefaultFiles();
             app.UseStaticFiles();
 
